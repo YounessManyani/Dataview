@@ -55,8 +55,11 @@ DataView est une application conçue pour faciliter l'accès aux informations d�
    - Créez une base de données et configurez les variables d'environnement dans le fichier `.env` situé dans le répertoire `backend` :
      \```
      DB_HOST=localhost
+     
      DB_USER=votre_nom_utilisateur
+
      DB_PASSWORD=votre_mot_de_passe
+
      DB_NAME=nom_de_votre_base_de_données
      \```
 
@@ -83,5 +86,5 @@ DataView est une application conçue pour faciliter l'accès aux informations d�
 
 ## Captures d'Écran
 ### Tableau de Bord Principal
-![Tableau de Bord Principal](./op-app-v4/image/screen-shoot.png)
+![7](https://github.com/user-attachments/assets/d42f2332-bf01-419f-b0a3-156fd43b11ba)
 
